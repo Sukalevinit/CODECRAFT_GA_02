@@ -62,11 +62,14 @@ notebook_login()
 
 ## 📸 Output
 
-The notebook generates an image based on the provided prompt using the Stable Diffusion model. For the current prompt **"solar system"**, the output will be a creative AI-generated visual representation of the solar system saved as:
+The notebook generates an image based on the provided prompt using the Stable Diffusion model. For the current prompt **"space dog in moon"**, the output will be a creative AI-generated visual representation of the solar system saved as:
 
 ```bash
 output.png
 ```
+OUTPUT:
+
+![image](https://github.com/user-attachments/assets/a25a4b8a-5f1d-4a3b-a38f-26021ad33773)
 
 ---
 
