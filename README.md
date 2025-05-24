@@ -1,10 +1,8 @@
 # Task 02 – Image Generation with Pre- trained Models
 
-**Internship Project – CODECRAFT**
-
 ## 📄 Project Description
 
-This notebook demonstrates the use of Hugging Face's `diffusers` library to generate images using the **Stable Diffusion** model. The task involves installing required libraries, logging into the Hugging Face hub, loading a pre-trained model, and generating AI images based on text prompts. This task is part of the internship assignment given by CODECRAFT.
+This notebook demonstrates the use of Hugging Face's `diffusers` library to generate images using the **Stable Diffusion** model. The task involves installing required libraries, logging into the Hugging Face hub, loading a pre-trained model, and generating AI images based on text prompts.
 
 ---
 
@@ -90,12 +88,5 @@ By completing this task, you will gain practical experience in:
 * Interfacing with Hugging Face's ecosystem
 * Generating and manipulating AI-based media
 * Handling GPU acceleration in model inference
-
----
-
-## 🤝 Contribution & Support
-
-This task was completed as part of an internship project at **CODECRAFT**.
-For any queries, contact the mentor or project supervisor at CODECRAFT.
 
 ---
